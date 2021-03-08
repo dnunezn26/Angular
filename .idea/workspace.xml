@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f0d3e91-70a4-45db-a79f-cdf2871d259d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pKaeHgOJXOjqlS2bOLSSwyXPev" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="proofread" />
+    <property name="ts.external.directory.path" value="D:\Angular\miApp\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f0d3e91-70a4-45db-a79f-cdf2871d259d" name="Default Changelist" comment="" />
+      <created>1614934333615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614934333615</updated>
+      <workItem from="1614934334616" duration="1415000" />
+      <workItem from="1615200188560" duration="5157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="253" key="#Notifications" timestamp="1615204891628">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="465" y="253" key="#Notifications/0.0.1440.860@0.0.1440.860" timestamp="1615204891628" />
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615200349355">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="84" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1615200349354" />
+    <state x="629" y="309" key="Github.ShareDialog" timestamp="1615205416106">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="629" y="309" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1615205416106" />
+    <state x="221" y="74" key="SettingsEditor" timestamp="1615201065739">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1615201065739" />
+  </component>
+</project>
